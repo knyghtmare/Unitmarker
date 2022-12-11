@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2022-12-11 05:16 UTC\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. [set_menu_item]: id=unit_marker
+#: Unitmarker\event.cfg:9
+msgid "Flag this Unit"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Unitmarker\event.cfg:66
+msgid "How do you wish to mark this unit?"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Unitmarker\event.cfg:67
+msgid "With a heart!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Unitmarker\event.cfg:68
+msgid "With a warhorn!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Unitmarker\event.cfg:69
+msgid "With a star!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Unitmarker\event.cfg:70
+msgid "With a moon!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Unitmarker\event.cfg:71
+msgid "With a poisonous skull!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Unitmarker\event.cfg:72
+msgid "With a shield!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Unitmarker\event.cfg:73
+msgid "With a pair of crossed flaming swords!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Unitmarker\event.cfg:93
+msgid "How do you wish to mark this leader?"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Unitmarker\event.cfg:133
+msgid "How do you wish to mark this hero?"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Unitmarker\event.cfg:134
+msgid "With a golden crest!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Unitmarker\event.cfg:135
+msgid "With a silver crest!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Unitmarker\event.cfg:136
+msgid "With a bronze crest!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Unitmarker\event.cfg:170
+msgid "How do you wish to mark this loyal soldier?"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Unitmarker\event.cfg:171
+msgid "With a golden belt!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Unitmarker\event.cfg:172
+msgid "With a silver belt!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Unitmarker\event.cfg:173
+msgid "With a bronze belt!"
+msgstr ""
+
+#. [option]
+#: Unitmarker\event_macros.cfg:97
+msgid "Revert all changes"
+msgstr ""
+
+#. [option]
+#: Unitmarker\event_macros.cfg:193
+msgid "Go Back without changes"
+msgstr ""
+
+#. [modification]: id=unitmarker, type=hybrid
+#: Unitmarker\flag_mod.cfg:5
+msgid "Unitmarker Mod"
+msgstr ""
+
+#. [modification]: id=unitmarker, type=hybrid
+#: Unitmarker\flag_mod.cfg:6
+msgid "This is a modification for Wesnoth which will affect all your campaigns, also mainline ones. It adds a right-click menu that lets you label special units that you don’t want to die with different overlays. Always recognise your important units! Loyal units, hero units and leaders get different sets of overlays."
+msgstr ""
+
