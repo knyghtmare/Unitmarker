@@ -1,0 +1,151 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2022-12-11 11:18 UTC\n"
+"PO-Revision-Date: 2022-12-11 20:24+0900\n"
+"Last-Translator: konami,k <konamit2008@gmail.com>\n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#. [set_menu_item]: id=unit_marker
+#: Unitmarker\event.cfg:9
+msgid "Flag this Unit"
+msgstr "ユニットのマーキング"
+
+#. [message]: speaker=narrator
+#: Unitmarker\event.cfg:66
+msgid "How do you wish to mark this unit?"
+msgstr "どのマークを付けますか？"
+
+#. [message]: speaker=narrator
+#: Unitmarker\event.cfg:67
+msgid "With a heart!"
+msgstr "ハート！"
+
+#. [message]: speaker=narrator
+#: Unitmarker\event.cfg:68
+msgid "With a warhorn!"
+msgstr "角笛！"
+
+#. [message]: speaker=narrator
+#: Unitmarker\event.cfg:69
+msgid "With a star!"
+msgstr "星！"
+
+#. [message]: speaker=narrator
+#: Unitmarker\event.cfg:70
+msgid "With a moon!"
+msgstr "月！"
+
+#. [message]: speaker=narrator
+#: Unitmarker\event.cfg:71
+msgid "With a poisonous skull!"
+msgstr "ドクロ！"
+
+#. [message]: speaker=narrator
+#: Unitmarker\event.cfg:72
+msgid "With a shield!"
+msgstr "盾！"
+
+#. [message]: speaker=narrator
+#: Unitmarker\event.cfg:73
+msgid "With a pair of crossed flaming swords!"
+msgstr "炎の剣！"
+
+#. [message]: speaker=narrator
+#: Unitmarker\event.cfg:93
+msgid "How do you wish to mark this leader?"
+msgstr "このリーダーに、どのマークを付けますか？"
+
+#. [message]: speaker=narrator
+#: Unitmarker\event.cfg:94 Unitmarker\event.cfg:134
+msgid "With a golden crest!"
+msgstr "黄金の紋章！"
+
+#. [message]: speaker=narrator
+#: Unitmarker\event.cfg:95
+msgid "With a golden crown!"
+msgstr "黄金の王冠！"
+
+#. [message]: speaker=narrator
+#: Unitmarker\event.cfg:96 Unitmarker\event.cfg:135
+msgid "With a silver crest!"
+msgstr "銀の紋章！"
+
+#. [message]: speaker=narrator
+#: Unitmarker\event.cfg:97
+msgid "With a silver crown!"
+msgstr "銀の王冠！"
+
+#. [message]: speaker=narrator
+#: Unitmarker\event.cfg:98 Unitmarker\event.cfg:136
+msgid "With a bronze crest!"
+msgstr "銅の紋章！"
+
+#. [message]: speaker=narrator
+#: Unitmarker\event.cfg:99
+msgid "With a bronze crown!"
+msgstr "銅の王冠！"
+
+#. [message]: speaker=narrator
+#: Unitmarker\event.cfg:133
+msgid "How do you wish to mark this hero?"
+msgstr "このヒーローに、どのマークを付けますか？"
+
+#. [message]: speaker=narrator
+#: Unitmarker\event.cfg:170
+msgid "How do you wish to mark this loyal soldier?"
+msgstr "この忠義者に、どのマークを付けますか？"
+
+#. [message]: speaker=narrator
+#: Unitmarker\event.cfg:171
+msgid "With a golden belt!"
+msgstr "黄金のベルト！"
+
+#. [message]: speaker=narrator
+#: Unitmarker\event.cfg:172
+msgid "With a silver belt!"
+msgstr "銀のベルト！"
+
+#. [message]: speaker=narrator
+#: Unitmarker\event.cfg:173
+msgid "With a bronze belt!"
+msgstr "銅のベルト！"
+
+#. [option]
+#: Unitmarker\event_macros.cfg:97
+msgid "Revert all changes"
+msgstr "全ての変更を戻す"
+
+#. [option]
+#: Unitmarker\event_macros.cfg:193
+msgid "Go Back without changes"
+msgstr "変更せず戻る"
+
+#. [modification]: id=unitmarker, type=hybrid
+#: Unitmarker\flag_mod.cfg:5
+msgid "Unitmarker Mod"
+msgstr "ユニットマーカー Mod"
+
+#. [modification]: id=unitmarker, type=hybrid
+#: Unitmarker\flag_mod.cfg:6
+msgid ""
+"This is a modification for Wesnoth which will affect all your campaigns, "
+"also mainline ones. It adds a right-click menu that lets you label special "
+"units that you don’t want to die with different overlays. Always recognise "
+"your important units! Loyal units, hero units and leaders get different sets "
+"of overlays. For bug reports, Wesnoth Modders Guild Discord: https://discord."
+"gg/rsePgjHRPA"
+msgstr ""
+"これは Wesnoth のための追加アドオンで、メインラインとアドオンの全キャンペーン"
+"に適用できます。右クリックメニューにマーキングのコマンドが追加され、死んでほ"
+"しくない特別なユニットにマークを付けることができます。重要なユニットを常に認"
+"識することができるのです！忠実なユニットやヒーローユニット、リーダーそれぞれ"
+"に異なるマークを付けられます。バグレポートは以下へどうぞ。Wesnoth Modders "
+"Guild Discord: https://discord.gg/rsePgjHRPA"
