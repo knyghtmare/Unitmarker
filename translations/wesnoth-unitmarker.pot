@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-12-11 05:16 UTC\n"
+"POT-Creation-Date: 2022-12-11 11:18 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -61,23 +61,41 @@ msgid "How do you wish to mark this leader?"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Unitmarker\event.cfg:133
-msgid "How do you wish to mark this hero?"
-msgstr ""
-
-#. [message]: speaker=narrator
+#: Unitmarker\event.cfg:94
 #: Unitmarker\event.cfg:134
 msgid "With a golden crest!"
 msgstr ""
 
 #. [message]: speaker=narrator
+#: Unitmarker\event.cfg:95
+msgid "With a golden crown!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Unitmarker\event.cfg:96
 #: Unitmarker\event.cfg:135
 msgid "With a silver crest!"
 msgstr ""
 
 #. [message]: speaker=narrator
+#: Unitmarker\event.cfg:97
+msgid "With a silver crown!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Unitmarker\event.cfg:98
 #: Unitmarker\event.cfg:136
 msgid "With a bronze crest!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Unitmarker\event.cfg:99
+msgid "With a bronze crown!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Unitmarker\event.cfg:133
+msgid "How do you wish to mark this hero?"
 msgstr ""
 
 #. [message]: speaker=narrator
@@ -117,6 +135,6 @@ msgstr ""
 
 #. [modification]: id=unitmarker, type=hybrid
 #: Unitmarker\flag_mod.cfg:6
-msgid "This is a modification for Wesnoth which will affect all your campaigns, also mainline ones. It adds a right-click menu that lets you label special units that you don’t want to die with different overlays. Always recognise your important units! Loyal units, hero units and leaders get different sets of overlays."
+msgid "This is a modification for Wesnoth which will affect all your campaigns, also mainline ones. It adds a right-click menu that lets you label special units that you don’t want to die with different overlays. Always recognise your important units! Loyal units, hero units and leaders get different sets of overlays. For bug reports, Wesnoth Modders Guild Discord: https://discord.gg/rsePgjHRPA"
 msgstr ""
 
