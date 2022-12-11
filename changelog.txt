@@ -4,7 +4,7 @@ Changelog "Unitmarker Modification"
 -----------------------------------
 
 Unreleased Version
-- ported to 1.16/1.17
+- packaged for 1.16/1.17 by sevu
 
 Version 1.4.2
 -Fixed the bug of Hero and Leader units getting the loyal Icon after "revert all changes"
