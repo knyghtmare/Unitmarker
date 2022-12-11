@@ -1,7 +1,9 @@
-todo:
-
 Changelog "Unitmarker Modification"
 -----------------------------------
+
+version 1.0.3 (1.16/1.17)
+- added some missing translation marks
+- JA (Japanese) translation by Chee (K.K.)
 
 Unreleased Version
 - packaged for 1.16/1.17 by sevu
