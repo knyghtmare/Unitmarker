@@ -1,0 +1,151 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2022-12-11 11:18 UTC\n"
+"PO-Revision-Date: 2022-12-11 22:14+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#. [set_menu_item]: id=unit_marker
+#: Unitmarker\event.cfg:9
+msgid "Flag this Unit"
+msgstr "Marcar esta unidad"
+
+#. [message]: speaker=narrator
+#: Unitmarker\event.cfg:66
+msgid "How do you wish to mark this unit?"
+msgstr "¿Cómo deseas marcar esta unidad?"
+
+#. [message]: speaker=narrator
+#: Unitmarker\event.cfg:67
+msgid "With a heart!"
+msgstr "Con un corazón"
+
+#. [message]: speaker=narrator
+#: Unitmarker\event.cfg:68
+msgid "With a warhorn!"
+msgstr "Con un cuerno de guerra"
+
+#. [message]: speaker=narrator
+#: Unitmarker\event.cfg:69
+msgid "With a star!"
+msgstr "Con una estrella"
+
+#. [message]: speaker=narrator
+#: Unitmarker\event.cfg:70
+msgid "With a moon!"
+msgstr "Con una luna"
+
+#. [message]: speaker=narrator
+#: Unitmarker\event.cfg:71
+msgid "With a poisonous skull!"
+msgstr "Con una calavera venenosa"
+
+#. [message]: speaker=narrator
+#: Unitmarker\event.cfg:72
+msgid "With a shield!"
+msgstr "Con un escudo"
+
+#. [message]: speaker=narrator
+#: Unitmarker\event.cfg:73
+msgid "With a pair of crossed flaming swords!"
+msgstr "Con un espadas de fuego cruzadas"
+
+#. [message]: speaker=narrator
+#: Unitmarker\event.cfg:93
+msgid "How do you wish to mark this leader?"
+msgstr "¿Cómo quieres marcar a este líder?"
+
+#. [message]: speaker=narrator
+#: Unitmarker\event.cfg:94 Unitmarker\event.cfg:134
+msgid "With a golden crest!"
+msgstr "Con un blasón de oro"
+
+#. [message]: speaker=narrator
+#: Unitmarker\event.cfg:95
+msgid "With a golden crown!"
+msgstr "Con una corona dorada"
+
+#. [message]: speaker=narrator
+#: Unitmarker\event.cfg:96 Unitmarker\event.cfg:135
+msgid "With a silver crest!"
+msgstr "Con un blasón de plata"
+
+#. [message]: speaker=narrator
+#: Unitmarker\event.cfg:97
+msgid "With a silver crown!"
+msgstr "Con una corona plateada"
+
+#. [message]: speaker=narrator
+#: Unitmarker\event.cfg:98 Unitmarker\event.cfg:136
+msgid "With a bronze crest!"
+msgstr "Con un blasón de bronce"
+
+#. [message]: speaker=narrator
+#: Unitmarker\event.cfg:99
+msgid "With a bronze crown!"
+msgstr "Con una corona de bronce"
+
+#. [message]: speaker=narrator
+#: Unitmarker\event.cfg:133
+msgid "How do you wish to mark this hero?"
+msgstr "¿Cómo deseas marcar a este héroe?"
+
+#. [message]: speaker=narrator
+#: Unitmarker\event.cfg:170
+msgid "How do you wish to mark this loyal soldier?"
+msgstr "¿Cómo quieres marcar a este soldado leal?"
+
+#. [message]: speaker=narrator
+#: Unitmarker\event.cfg:171
+msgid "With a golden belt!"
+msgstr "Con un cinturón de oro"
+
+#. [message]: speaker=narrator
+#: Unitmarker\event.cfg:172
+msgid "With a silver belt!"
+msgstr "Con un cinturón de plata"
+
+#. [message]: speaker=narrator
+#: Unitmarker\event.cfg:173
+msgid "With a bronze belt!"
+msgstr "Con un cinturón de bronce"
+
+#. [option]
+#: Unitmarker\event_macros.cfg:97
+msgid "Revert all changes"
+msgstr "Deshacer todos los cambios"
+
+#. [option]
+#: Unitmarker\event_macros.cfg:193
+msgid "Go Back without changes"
+msgstr "Volver sin cambios"
+
+#. [modification]: id=unitmarker, type=hybrid
+#: Unitmarker\flag_mod.cfg:5
+msgid "Unitmarker Mod"
+msgstr "Unitmarker Mod"
+
+#. [modification]: id=unitmarker, type=hybrid
+#: Unitmarker\flag_mod.cfg:6
+msgid ""
+"This is a modification for Wesnoth which will affect all your campaigns, "
+"also mainline ones. It adds a right-click menu that lets you label special "
+"units that you don’t want to die with different overlays. Always recognise "
+"your important units! Loyal units, hero units and leaders get different sets "
+"of overlays. For bug reports, Wesnoth Modders Guild Discord: https://discord."
+"gg/rsePgjHRPA"
+msgstr ""
+"Esta es una modificación para Wesnoth que afectará a todas tus campañas, "
+"también a las principales. Agrega un menú contextual que te permite "
+"etiquetar unidades especiales con diferentes iconos. ¡Reconoce siempre tus "
+"unidades importantes! Las unidades leales, las unidades de héroes y los "
+"líderes obtienen diferentes conjuntos de iconos. Para informes de errores, "
+"Wesnoth Modders Guild Discord: https://discord.gg/rsePgjHRPA"
