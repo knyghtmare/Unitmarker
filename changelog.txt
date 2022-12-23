@@ -1,6 +1,10 @@
 Changelog "Unitmarker Modification"
 -----------------------------------
 
+version 1.0.5 (1.16/1.17)
+- Fixed some bugs
+- Spanish Translations by Toranks
+
 version 1.0.4 (1.16/1.17)
 - added some missing translation marks
 - JA (Japanese) translation by Chee (K.K.)
