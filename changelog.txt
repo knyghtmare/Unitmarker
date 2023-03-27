@@ -1,6 +1,9 @@
 Changelog "Unitmarker Modification"
 -----------------------------------
 
+version 1.0.7 (1.17/1.16)
+- Fixed description of modification which caused an assertive crash to main menu
+
 version 1.0.5 (1.16/1.17)
 - Fixed some bugs
 - Spanish Translations by Toranks
