@@ -1,0 +1,154 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2023-03-27 03:13 UTC\n"
+"PO-Revision-Date: 2025-05-16 16:26+0300\n"
+"Last-Translator: Oleksii Okhrimenko(lexa04) <e-mail: ohrimale@gmail.com "
+"discord: amakri>\n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.6\n"
+
+#. [set_menu_item]: id=unit_marker
+#: Unitmarker/event.cfg:9
+msgid "Flag this Unit"
+msgstr "Відзначити бійця"
+
+#. [message]: speaker=narrator
+#: Unitmarker/event.cfg:37
+msgid "How do you wish to mark this leader?"
+msgstr "Чим ви бажаєте відзначити цього лідера?"
+
+#. [message]: speaker=narrator
+#: Unitmarker/event.cfg:38 Unitmarker/event.cfg:84
+msgid "With a golden crest!"
+msgstr "Золотим вінцем!"
+
+#. [message]: speaker=narrator
+#: Unitmarker/event.cfg:39
+msgid "With a golden crown!"
+msgstr "Золотою короною!"
+
+#. [message]: speaker=narrator
+#: Unitmarker/event.cfg:40 Unitmarker/event.cfg:85
+msgid "With a silver crest!"
+msgstr "Срібним вінцем!"
+
+#. [message]: speaker=narrator
+#: Unitmarker/event.cfg:41
+msgid "With a silver crown!"
+msgstr "Срібною короною!"
+
+#. [message]: speaker=narrator
+#: Unitmarker/event.cfg:42 Unitmarker/event.cfg:86
+msgid "With a bronze crest!"
+msgstr "Бронзовим вінцем!"
+
+#. [message]: speaker=narrator
+#: Unitmarker/event.cfg:43
+msgid "With a bronze crown!"
+msgstr "Бронзовою короною!"
+
+#. [message]: speaker=narrator
+#: Unitmarker/event.cfg:83
+msgid "How do you wish to mark this hero?"
+msgstr "Чим ви бажаєте відзначити цього лідера?"
+
+#. [message]: speaker=narrator
+#: Unitmarker/event.cfg:124
+msgid "How do you wish to mark this loyal soldier?"
+msgstr "Чим ви бажаєте відзначити цього вірного бійця?"
+
+#. [message]: speaker=narrator
+#: Unitmarker/event.cfg:125
+msgid "With a golden belt!"
+msgstr "Золотим обручем!"
+
+#. [message]: speaker=narrator
+#: Unitmarker/event.cfg:126
+msgid "With a silver belt!"
+msgstr "Срібним обручем!"
+
+#. [message]: speaker=narrator
+#: Unitmarker/event.cfg:127
+msgid "With a bronze belt!"
+msgstr "Бронзовим обручем!"
+
+#. [message]: speaker=narrator
+#: Unitmarker/event.cfg:140
+msgid "How do you wish to mark this unit?"
+msgstr "Чим ви бажаєте відзначити цього бійця?"
+
+#. [message]: speaker=narrator
+#: Unitmarker/event.cfg:141
+msgid "With a heart!"
+msgstr "Серцем!"
+
+#. [message]: speaker=narrator
+#: Unitmarker/event.cfg:142
+msgid "With a warhorn!"
+msgstr "Бойовим горном!"
+
+#. [message]: speaker=narrator
+#: Unitmarker/event.cfg:143
+msgid "With a star!"
+msgstr "Зіркою!"
+
+#. [message]: speaker=narrator
+#: Unitmarker/event.cfg:144
+msgid "With a moon!"
+msgstr "Місяцем!"
+
+#. [message]: speaker=narrator
+#: Unitmarker/event.cfg:145
+msgid "With a poisonous skull!"
+msgstr "Отруйним черепом!"
+
+#. [message]: speaker=narrator
+#: Unitmarker/event.cfg:146
+msgid "With a shield!"
+msgstr "Щитом!"
+
+#. [message]: speaker=narrator
+#: Unitmarker/event.cfg:147
+msgid "With a pair of crossed flaming swords!"
+msgstr "Парою палаючих лез!"
+
+#. [option]
+#: Unitmarker/event_macros.cfg:70
+msgid "Revert all changes"
+msgstr "Скасувати всі зміни"
+
+#. [option]
+#: Unitmarker/event_macros.cfg:82
+msgid "Go Back without changes"
+msgstr "Закрити без змін"
+
+#: Unitmarker/flag_mod.cfg:4
+msgid ""
+"This is a modification for Wesnoth which will affect all your campaigns, "
+"also mainline ones.\n"
+"It adds a right-click menu that lets you label special units that you don't "
+"want to die with different overlays. \n"
+"Always recognise your important units! \n"
+"Loyal units, hero units and leaders get different sets of overlays. \n"
+"For bug reports:\n"
+"Wesnoth Modders Guild Discord: https://discord.gg/rsePgjHRPA"
+msgstr ""
+"Це модифікація для Wesnoth, котру можна використовувати в усіх кампаніях, "
+"навіть в базовій грі.\n"
+"Вона додає меню правої кнопки миші, що дозволяє відзначити ваших улюблених "
+"бійців різними графічними відзнаками. \n"
+"Завжди впізнавайте своїх важливих бійців!\n"
+"Вірні бійці, герої та лідери мають різні набори відзнак. \n"
+"Повідомити про помилку:\n"
+"Wesnoth Modders Guild Discord: https://discord.gg/rsePgjHRPA"
+
+#. [modification]: id=unitmarker, description={UNIT_MARKER_MOD_DESCRIPTION}, type=hybrid
+#: Unitmarker/flag_mod.cfg:14
+msgid "Unitmarker Mod"
+msgstr "Відзнаки для бійців"
